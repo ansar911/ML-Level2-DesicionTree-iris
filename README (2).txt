@@ -1,5 +1,3 @@
-# 🌳 Decision Tree Classification - Iris Dataset (Level 2 - Codveda Internship)
-
 ## 📌 Project Overview
 
 This project focuses on building a Decision Tree classifier to predict the species of flowers using the Iris dataset.
